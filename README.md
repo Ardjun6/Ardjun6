@@ -5,7 +5,7 @@
 
 - 💬 My skills **HTML, CSS, Javascript and php**
 
-- 📫 How to reach me **ardjundebitewarie@gmail.com**
+- 📫 How to reach me **ardjundebitewarie@outlook.com**
 
 <p align="left">
 </p>
