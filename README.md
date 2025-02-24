@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **react creating that a tool for navbar and footer**
 
-- 💬 My skills **HTML, CSS, Javascript and php**
+- 💬 My skills **HTML, CSS, Javascript, React and php**
 
 - 📫 How to reach me **ardjundebitewarie@outlook.com**
 
