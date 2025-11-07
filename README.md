@@ -1,5 +1,5 @@
 <h1 align="center">Web Developer Ardjun</h1>
-<h3 align="center">A passionate frontend developer from Suriname</h3>
+<h3 align="center">A passionate frontend developer from The Netherlands</h3>
 
 - 🔭 I’m currently working on **react creating that a tool for navbar and footer**
 
