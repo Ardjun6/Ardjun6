@@ -1,7 +1,8 @@
-<h1 align="center">Software Engineer Ardjun</h1>
-<h3 align="center">A passionate frontend and Python developer from The Netherlands</h3>
+<h1 align="center">Software Engineer & Data Science Student – Ardjun</h1>
+<h3 align="center">First-year Applied Data Science & Artificial Intelligence student from The Netherlands</h3>
 
 - 🔭 I’m currently building **websites for businesses**  
+- 🎓 Studying **Applied Data Science & Artificial Intelligence (Year 1)**  
 - 💻 Working with **Python, React, and Next.js**  
 - 📚 Currently learning **NumPy, Pandas, Scikit-learn, PyTorch, and Matplotlib**  
 - 💬 My skills: **HTML, CSS, JavaScript, React, PHP, and Python**  
