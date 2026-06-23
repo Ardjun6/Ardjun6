@@ -1,4 +1,4 @@
-<h1 align="center">Software Engineer & Data Science Student – Ardjun</h1>
+<h1 align="center">Software Developer & Data Science Student – Ardjun</h1>
 <h3 align="center">First-year Applied Data Science & Artificial Intelligence student from The Netherlands</h3>
 
 - 🔭 I’m currently building **websites for businesses**  
